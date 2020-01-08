@@ -4,5 +4,6 @@ A script to format python files on a linux system (for readability and PEP 8 com
 ## Usage
 *python pyformat <file>*
 
-If using the wildcard '*', include double quotes, ie.:
+**If using the wildcard '*', include double quotes, ie.:**
+
 *python pyformat "*.py"
