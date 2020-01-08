@@ -6,4 +6,4 @@ A script to format python files on a linux system (for readability and PEP 8 com
 
 **If using the wildcard '*', include double quotes, ie.:**
 
-*python pyformat "\*.py"
+*python pyformat "\*.py"*
